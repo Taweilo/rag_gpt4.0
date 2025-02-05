@@ -1,7 +1,5 @@
 # rag with gpt4.0
-![RAG gpt4 0](https://github.com/user-attachments/assets/b4ed29ae-09a4-4cf3-af4e-b57653ce2eb9)
-![RAG gpt4 0 (1)](https://github.com/user-attachments/assets/34f71e70-78eb-4768-a629-58812cdd2bcf)
-
+<img src="https://github.com/user-attachments/assets/34f71e70-78eb-4768-a629-58812cdd2bcf" width="800">
 
 ## Dependency
 - gradio
@@ -9,7 +7,6 @@
 - openai
 - faiss-cpu
 - pypdf
-
 
 ## Steps
 1. Upload a PDF document.
